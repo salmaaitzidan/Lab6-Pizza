@@ -47,8 +47,3 @@ Le projet est organisé comme suit :
 <img width="281" height="612" alt="Détails pizza 2" src="https://github.com/user-attachments/assets/7cb1d438-d68c-4ef7-adbc-b7a9f30aa54f" />
 
 ---
-
-
-
-## ✨ Auteur
-Projet réalisé dans un cadre académique pour apprendre l’architecture Android en couches (DAO / Service / Adapter / UI).
