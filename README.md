@@ -16,6 +16,7 @@ L’application est structurée selon une architecture propre en couches :
 ##  Démonstration 
 <img width="281" height="603" alt="image" src="https://github.com/user-attachments/assets/d3e18f53-e5b3-40d1-8a6d-fc8008ad9918" />
 
+
 C'est le splash screen 
 <img width="284" height="604" alt="image" src="https://github.com/user-attachments/assets/6959e9d4-ac2d-4cb0-bf34-df2273cfab5c" />
 
