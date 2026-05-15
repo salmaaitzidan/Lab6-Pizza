@@ -18,7 +18,12 @@ L’application est structurée selon une architecture propre en couches :
 
 C'est le splash screen 
 <img width="284" height="604" alt="image" src="https://github.com/user-attachments/assets/6959e9d4-ac2d-4cb0-bf34-df2273cfab5c" />
+
 C'est la liste des pizza presentes
+
+
 <img width="285" height="611" alt="image" src="https://github.com/user-attachments/assets/bc92312d-2a32-4209-9962-b99aa2c26148" />
+
 <img width="281" height="612" alt="image" src="https://github.com/user-attachments/assets/7cb1d438-d68c-4ef7-adbc-b7a9f30aa54f" />
+
 Ce sont des exemples de détails de chaque pizza
